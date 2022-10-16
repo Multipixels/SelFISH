@@ -91,7 +91,8 @@ To get a local copy up and running follow these steps.
 
 ### Installation
 
-* You can either build the game using the source code and Unity, or download the release version from GitHub Releases [here]() or from the [itch]() page.
+* You can either build the game using the source code and Unity, or download the release version from GitHub Releases [here](https://github.com/Multipixels/SelFISH/releases) or from the [itch](https://multipixels.itch.io/selfish) page.
+  * The Itch page will also contain a WebGL build playable in the browser.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
